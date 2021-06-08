@@ -27,7 +27,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GH_TOKEN }}
-          external_repository: Mertzenich/decorahknights.org
           publish_dir: ./public
           user_name: Mertzenich
           user_email: adam@mertzeni.ch
