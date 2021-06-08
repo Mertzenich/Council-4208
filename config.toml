@@ -1,3 +1,24 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Decorah Knights of Columbus"
+theme = "mixedpaper"
+enableRobotsTXT = true
+paginate = 5
+#summaryLength = 100 # Length of post text to show on home
+pygmentsUseClasses = true
+
+#[author]
+#name = "John Smith"
+
+# Bar navigation
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 1
