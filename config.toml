@@ -6,6 +6,7 @@ enableRobotsTXT = true
 paginate = 5
 #summaryLength = 100 # Length of post text to show on home
 pygmentsUseClasses = true
+#staticDir = ["static1", "static2"]
 
 #[author]
 #name = "John Smith"
