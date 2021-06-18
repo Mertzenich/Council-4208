@@ -5,7 +5,7 @@ draft: false
 ---
 
 # Saint Benedict's Knights of Columbus Council 4208
-Saint Benedict's Knights of Columbus Council 4208 in Decorah, Iowa, is VERY active and has been awarded the Star Council Award (https://www.kofc.org/en/members/programs/council-activities/star-council-award.html) for service to God and God's people. 
+Saint Benedict's Knights of Columbus Council 4208 in Decorah, Iowa, is VERY active and has been awarded the [Star Council Award](https://www.kofc.org/en/members/programs/council-activities/star-council-award.html) for service to God and God's people. *dead link*
 
 If you are a practical (practicing) Catholic gentleman, we invite you to join us by clicking on the following link: https://www.kofc.org/apps/joinus/en/registration/index.html  
 
@@ -39,10 +39,14 @@ Patriotic (4th) degree information: http://www.kofc.org/un/en/members/for-patrio
 - We Want to Teach! We Want to be Taught: http://www.wewanttobetaught.com/
 - How to figure out if you, a Catholic, should attend a wedding: ["Can I go to this wedding?"](https://www.catholic.com/magazine/print-edition/to-attend-or-not-to-attend)
 - Please send a letter to Pope Francis requesting that he consecrate Russia to the Immaculate Heart of Mary in union with all the Catholic bishops of the world in the solemn and public manner commanded by Our Lord and Our Lady, in the Fatima Message.
+
 Here is the Holy Father's address:
-His Holiness, Pope Francis
+
+```His Holiness, Pope Francis
 Apostolic Palace
 00120 Vatican City
+```
+
 Form letter and petition can be found here: https://fatima.org/petition/petition-to-our-holy-father-the-consecration-of-russia/
 
 # CATHOLIC NEWS AND INFORMATION:
