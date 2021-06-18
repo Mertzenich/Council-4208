@@ -1,9 +1,10 @@
 ---
-title: "About - Saint Benedict's Knights of Columbus Council 4208"
+title: "About"
 date: 2000-06-13T20:37:35-05:00
 draft: false
 ---
 
+# Saint Benedict's Knights of Columbus Council 4208
 Saint Benedict's Knights of Columbus Council 4208 in Decorah, Iowa, is VERY active and has been awarded the Star Council Award (https://www.kofc.org/en/members/programs/council-activities/star-council-award.html) for service to God and God's people. 
 
 If you are a practical (practicing) Catholic gentleman, we invite you to join us by clicking on the following link: https://www.kofc.org/apps/joinus/en/registration/index.html  
