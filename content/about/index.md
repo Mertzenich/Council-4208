@@ -47,7 +47,7 @@ Apostolic Palace
 00120 Vatican City
 ```
 
-Form letter and petition can be found here: https://fatima.org/petition/petition-to-our-holy-father-the-consecration-of-russia/
+Form letter and petition can be found [here](https://fatima.org/petition/petition-to-our-holy-father-the-consecration-of-russia/).
 
 # CATHOLIC NEWS AND INFORMATION:
 https://www.churchmilitant.com/updated-programming-schedule
@@ -63,76 +63,86 @@ https://www.churchmilitant.com/updated-programming-schedule
 # Past Events and Activities
 Here's a sample of past events and activities of Council 4208:
 
-Jan-July 2019 KNIGHTS OF COLUMBUS 4208 DECORAH
+## Jan-July 2019 KNIGHTS OF COLUMBUS 4208 DECORAH
 
-January
-3 Travel Gavel Monona 7pm First Degree(bring new ideas & events to other councils and & eat great food)
-14 Meeting
-20 Rose Drive after 3 Masses (12-15 people if at mass help 4-5 people per mass)
-February
-4 Travel Gavel Ossian 7pm First Degree(bring new ideas & events to other councils and & eat great food)
-11 Meeting 7pm
-March
-10,17,24,31 Stations of the Cross 9:30 am (8 people 2 each Sunday)
-11 Meeting Travel Gavel Decorah 7pm First Degree(socialize, improve, learn from other councils & eat great food)
-23 Banquet of Blessings
-TBD KC Spring Pot Roast Dinner St. Benedict 11am-1pm (all members to help prep,setup,cook,serve,cleanup)
-31 Fifth Sunday Rosary
-April
-7,14 Stations of the Cross 9:30 am (8 people 2 each Sunday)
-8 Meeting
-9 Travel Gavel Waukon 7pm First Degree(socialize, improve, learn from other councils & eat great food)
-12 St Benedict Parish Fish Fry at School 4-7pm (help set up, serve,deliver meals,clean up & take down 20 people)
-May
-3-5 State Convention Des Moines
-9 Travel Gavel Lansing 7pm First Degree(socialize, improve, learn from other councils & eat great food)
-13 Meeting
-26 Commencement High School (KofC $500 Scholarship 1 person)
-June
-10 Meeting (Admissions Degree)
-30 Fifth Sunday Rosary (one person)
-July
-8 Potluck Picnic Installation of Officers Meeting Whalen Cabin 5:30-7:30pm (set up,clean up,4-6 people)
-13 Fair Pork Chop Booth 2-6pm (4-6 people 2-3 per 2 hr shift )
+### January
+- 3 Travel Gavel Monona 7pm First Degree(bring new ideas & events to other councils and & eat great food)
+- 14 Meeting
+- 20 Rose Drive after 3 Masses (12-15 people if at mass help 4-5 people per mass)
 
-(July-Dec)Events 2018 KNIGHTS OF COLUMBUS 4208
+### February
+- 4 Travel Gavel Ossian 7pm First Degree(bring new ideas & events to other councils and & eat great food)
+- 11 Meeting 7pm
 
-July
-5,12,19 Lawn Chair Night (Serve Food 3-5 people)
-9 Potluck Picnic Installation of Officers Whalen Cabin 5:30-7: pm (everyone invited)
-14 County Fair Pork Chop Booth 2-6 pm (4-6 people 2-3 per 2hr)
-29 Fifth Sunday Rosary (1 person)
-August
-2,9,16,23, Lawn Chair Night (Serve Food 3-5 people)
-13 Meeting St Benedict School clean up & wood chips on playground 4pm (15-30 people)
-16 United Way Kick Off 5pm (grill and serve 3-5 people)
-19 Hospitality after 10am Mass (set up,serve & clean up 4-6 people)(optional breakfast)
-September
-10 Meeting (Admissions Degree)
-CANCELED Meatball Supper Rosary Society 4-7pm PH (help set up,cook & clean up 3-8 people)
-16 Hospitality after 10am Mass (set up,serve & clean up 4-6 people)(optional breakfast)
+### March
+- 10,17,24,31 Stations of the Cross 9:30 am (8 people 2 each Sunday)
+- 11 Meeting Travel Gavel Decorah 7pm First Degree(socialize, improve, learn from other councils & eat great food)
+- 23 Banquet of Blessings
+- TBD KC Spring Pot Roast Dinner St. Benedict 11am-1pm (all members to help prep,setup,cook,serve,cleanup)
+- 31 Fifth Sunday Rosary
+
+### April
+- 7,14 Stations of the Cross 9:30 am (8 people 2 each Sunday)
+- 8 Meeting
+- 9 Travel Gavel Waukon 7pm First Degree(socialize, improve, learn from other councils & eat great food)
+- 12 St Benedict Parish Fish Fry at School 4-7pm (help set up, serve,deliver meals,clean up & take down 20 people)
+
+### May
+- 3-5 State Convention Des Moines
+- 9 Travel Gavel Lansing 7pm First Degree(socialize, improve, learn from other councils & eat great food)
+- 13 Meeting
+- 26 Commencement High School (KofC $500 Scholarship 1 person)
+
+### June
+- 10 Meeting (Admissions Degree)
+- 30 Fifth Sunday Rosary (one person)
+
+### July
+- 8 Potluck Picnic Installation of Officers Meeting Whalen Cabin 5:30-7:30pm (set up,clean up,4-6 people)
+- 13 Fair Pork Chop Booth 2-6pm (4-6 people 2-3 per 2 hr shift )
+
+## July-Dec Events 2018 KNIGHTS OF COLUMBUS 4208
+
+### July
+- 5,12,19 Lawn Chair Night (Serve Food 3-5 people)
+- 9 Potluck Picnic Installation of Officers Whalen Cabin 5:30-7: pm (everyone invited)
+- 14 County Fair Pork Chop Booth 2-6 pm (4-6 people 2-3 per 2hr)
+- 29 Fifth Sunday Rosary (1 person)
+
+### August
+- 2,9,16,23, Lawn Chair Night (Serve Food 3-5 people)
+- 13 Meeting St Benedict School clean up & wood chips on playground 4pm (15-30 people)
+- 16 United Way Kick Off 5pm (grill and serve 3-5 people)
+- 19 Hospitality after 10am Mass (set up,serve & clean up 4-6 people)(optional breakfast)
+
+### September
+- 10 Meeting (Admissions Degree)
+- CANCELED Meatball Supper Rosary Society 4-7pm PH (help set up,cook & clean up 3-8 people)
+- 16 Hospitality after 10am Mass (set up,serve & clean up 4-6 people)(optional breakfast)
 30 Fifth Sunday Rosary
-October
-5 CPID Tootsie Roll Drive (3 masses,football game,Walmart,Fareway,Kwik Star 28 people)
-8 Meeting
-20 St Benedict Addition Dedication(KCs Ten Commandments dedication 20+ people for picture)
-21 Hospitality after 10am Mass (set up,serve & clean up 4-6 people)(optional breakfast)
-TBD Church Drive St Benedict (after mass 5:30 pm,7:30 10 am 4 people per mass 12 total October or March)
-November
-All Month up to the 21st set up Holiday Lights at Campground (setup displays 5-10 people)
-10 Fall Festival St Benedict School (replacing Mardi Gras help with games bingo)
-12 Mass for Deceased 6pm. Social after. Bring Appetizers(setup & cleanup 3-6 people)(No Meeting)
-18 Hospitality after 10am Mass (set up serve & clean up 4-6 people)(optional breakfast)
-18 K of C Pancake Breakfast St Benedict Church 8am -12 noon (need 20 people}
-21 Live Nativity at Holiday Lights(6 people)
-29 Knights of Columbus work Holiday Lights at Camp ground(run the display 5-10 people)
-December
-TBD Bowl-a-thon (Held in December,May,or August 3 people)
-8 Knights of Columbus Holiday Lights at Campground (run the display 5-10 people)
-10 Christmas Party (No Meeting)
-11 Deliver Gifts to Wellington Place from our Christmas Party (1-2 people)
-16 St Benedict Giving Tree (deliver gifts 2-5 people)
-16 Hospitality after 10am Mass (set up serve & clean up 4-6 people)(optional breakfast)
-26 Holiday Lights at Campground (help take down display 5-20 people)
-30 Fifth Sunday Rosary
-contact
+
+### October
+- 5 CPID Tootsie Roll Drive (3 masses,football game,Walmart,Fareway,Kwik Star 28 people)
+- 8 Meeting
+- 20 St Benedict Addition Dedication(KCs Ten Commandments dedication 20+ people for picture)
+- 21 Hospitality after 10am Mass (set up,serve & clean up 4-6 people)(optional breakfast)
+- TBD Church Drive St Benedict (after mass 5:30 pm,7:30 10 am 4 people per mass 12 total October or March)
+
+### November
+- All Month up to the 21st set up Holiday Lights at Campground (setup displays 5-10 people)
+- 10 Fall Festival St Benedict School (replacing Mardi Gras help with games bingo)
+- 12 Mass for Deceased 6pm. Social after. Bring Appetizers(setup & cleanup 3-6 people)(No Meeting)
+- 18 Hospitality after 10am Mass (set up serve & clean up 4-6 people)(optional breakfast)
+- 18 K of C Pancake Breakfast St Benedict Church 8am -12 noon (need 20 people}
+- 21 Live Nativity at Holiday Lights(6 people)
+- 29 Knights of Columbus work Holiday Lights at Camp ground(run the display 5-10 people)
+
+### December
+- TBD Bowl-a-thon (Held in December,May,or August 3 people)
+- 8 Knights of Columbus Holiday Lights at Campground (run the display 5-10 people)
+- 10 Christmas Party (No Meeting)
+- 11 Deliver Gifts to Wellington Place from our Christmas Party (1-2 people)
+- 16 St Benedict Giving Tree (deliver gifts 2-5 people)
+- 16 Hospitality after 10am Mass (set up serve & clean up 4-6 people)(optional breakfast)
+- 26 Holiday Lights at Campground (help take down display 5-20 people)
+- 30 Fifth Sunday Rosary
