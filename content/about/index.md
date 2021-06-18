@@ -31,7 +31,7 @@ Patriotic (4th) degree information: http://www.kofc.org/un/en/members/for-patrio
 - Trustee 3 yr - Brett Robinson
 - Trustee 2 yr - Brian Franzen
 - Trustee 1 yr - Sean Devine Meyer (starting July 2020)
-- District Deputy: Larry Hauber 
+- District Deputy - Larry Hauber 
 
 # Links & information:
 - Saint Benedict's parish, Decorah, Iowa: https://www.stbenedictcc.com/

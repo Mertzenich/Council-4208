@@ -4,4 +4,20 @@ date: 2000-06-13T21:38:44-05:00
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.
+# 2020-2021 Council Officers:
+- Grand Knight - Tom Hartman (563-379-1093; hartmant81@gmail.com)
+- Chaplain - Father Donald Hertges
+- Deputy Grand Knight - Randy Schissel
+- Chancellor - Alan Neste
+- Recorder - Mike Loney
+- Financial Secretary - Jeff Minear
+- Treasurer - Tim Mueller
+- Lecturer - Mike Engelhardt
+- Advocate - Erik Sondrol
+- Warden - Doug Donovan
+- Inside Guard - Joel Jermeland
+- Outside Guard - Keith Hemesath
+- Trustee 3 yr - Brett Robinson
+- Trustee 2 yr - Brian Franzen
+- Trustee 1 yr - Sean Devine Meyer (starting July 2020)
+- District Deputy - Larry Hauber 
