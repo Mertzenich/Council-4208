@@ -34,7 +34,6 @@ Patriotic (4th) degree information: http://www.kofc.org/un/en/members/for-patrio
 - District Deputy: Larry Hauber 
 
 # Links & information:
-
 - Saint Benedict's parish, Decorah, Iowa: https://www.stbenedictcc.com/
 - We Want to Teach! We Want to be Taught: http://www.wewanttobetaught.com/
 - How to figure out if you, a Catholic, should attend a wedding: ["Can I go to this wedding?"](https://www.catholic.com/magazine/print-edition/to-attend-or-not-to-attend)
@@ -43,16 +42,17 @@ Patriotic (4th) degree information: http://www.kofc.org/un/en/members/for-patrio
 Here is the Holy Father's address:
 
 ```His Holiness, Pope Francis
+His Holiness Pope Francis
 Apostolic Palace
 00120 Vatican City
 ```
 
 Form letter and petition can be found [here](https://fatima.org/petition/petition-to-our-holy-father-the-consecration-of-russia/).
 
-# CATHOLIC NEWS AND INFORMATION:
-https://www.churchmilitant.com/updated-programming-schedule
+## CATHOLIC NEWS AND INFORMATION:
+- https://www.churchmilitant.com/updated-programming-schedule
 
-## 2020 ELECTION NOTES:
+### 2020 ELECTION NOTES:
 - Voter guide: https://www.church-militant.com/2020-catholic-voters-guide
 - The Catholic's Guide to Joe Biden: https://joeaintcatholic.com/optin1600804765684
 - Post-election resources: https://www.churchmilitant.com/post-election-resource-page
