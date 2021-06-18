@@ -5,7 +5,7 @@ draft: false
 ---
 
 # Saint Benedict's Knights of Columbus Council 4208
-Saint Benedict's Knights of Columbus Council 4208 in Decorah, Iowa, is VERY active and has been awarded the [Star Council Award](https://www.kofc.org/en/members/programs/council-activities/star-council-award.html) for service to God and God's people. *dead link*
+Saint Benedict's Knights of Columbus Council 4208 in Decorah, Iowa, is VERY active and has been awarded the [Star Council Award](https://www.kofc.org/en/members/programs/council-activities/star-council-award.html) for service to God and God's people. **dead link**
 
 If you are a practical (practicing) Catholic gentleman, we invite you to join us by clicking on the following link: https://www.kofc.org/apps/joinus/en/registration/index.html  
 
@@ -49,10 +49,10 @@ Apostolic Palace
 
 Form letter and petition can be found [here](https://fatima.org/petition/petition-to-our-holy-father-the-consecration-of-russia/).
 
-## CATHOLIC NEWS AND INFORMATION:
+## Catholic News:
 - https://www.churchmilitant.com/updated-programming-schedule
 
-### 2020 ELECTION NOTES:
+### 2020 Election Notes:
 - Voter guide: https://www.church-militant.com/2020-catholic-voters-guide
 - The Catholic's Guide to Joe Biden: https://joeaintcatholic.com/optin1600804765684
 - Post-election resources: https://www.churchmilitant.com/post-election-resource-page
