@@ -1,6 +1,6 @@
 ---
 title: "First Post"
-date: 2021-06-08T20:23:52-05:00
+date: 2021-06-08T20:23
 draft: false
 ---
 
