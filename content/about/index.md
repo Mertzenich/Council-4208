@@ -4,12 +4,12 @@ date: 2000-06-13T20:37:35-05:00
 draft: false
 ---
 
-![Image of DIAL](images/dial.jpg)
+![Image of DIAL](dial.jpg)
 
 # Saint Benedict's Knights of Columbus Council 4208
 Saint Benedict's Knights of Columbus Council 4208 in Decorah, Iowa, is VERY active and has been awarded the [Star Council Award](https://www.kofc.org/en/members/programs/council-activities/star-council-award.html) for service to God and God's people. **dead link**
 
-If you are a practical (practicing) Catholic gentleman, we invite you to join us by clicking on the following link: https://www.kofc.org/apps/joinus/en/registration/index.html  
+If you are a practical (practicing) Catholic gentleman, we invite you to join us by clicking on the following link: https://www.kofc.org/apps/joinus/en/registration/index.html
 
 For information about Knights of Columbus insurance, visit https://www.facebook.com/KnightsOfColumbusBormannAgency/
 
@@ -33,7 +33,7 @@ Patriotic (4th) degree information: http://www.kofc.org/un/en/members/for-patrio
 - Trustee 3 yr - Brett Robinson
 - Trustee 2 yr - Brian Franzen
 - Trustee 1 yr - Sean Devine Meyer (starting July 2020)
-- District Deputy - Larry Hauber 
+- District Deputy - Larry Hauber
 
 # Links & information:
 - Saint Benedict's parish, Decorah, Iowa: https://www.stbenedictcc.com/
@@ -58,7 +58,7 @@ Form letter and petition can be found [here](https://fatima.org/petition/petitio
 - Voter guide: https://www.church-militant.com/2020-catholic-voters-guide
 - The Catholic's Guide to Joe Biden: https://joeaintcatholic.com/optin1600804765684
 - Post-election resources: https://www.churchmilitant.com/post-election-resource-page
-- Post-election Catholic news reports: 
+- Post-election Catholic news reports:
 - https://www.churchmilitant.com/video/archive/repo
 - https://www.churchmilitant.com/video/episode/camp-post-election-special-massive-fraud
 
