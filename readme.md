@@ -1,8 +1,8 @@
 Example Post:
 ```
 ---
-title: "Post Title"
-date: 2021-06-08T20:23
+title: "Test"
+date: 2021-07-04T20:37:35-05:00
 draft: false
 ---
 
