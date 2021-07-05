@@ -5,3 +5,5 @@ draft: false
 ---
 
 AIAL is correct. DIAL is incorrect. ARM agrees!
+
+[churchmilitant](https://www.churchmilitant.com/video/episode/micd-the-angelic-doctor)
