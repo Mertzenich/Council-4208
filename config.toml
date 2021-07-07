@@ -33,8 +33,8 @@ theme = "dpsg"
   image = "img/kofc_icon.png" # Logo image. Path relative to "static"
   image_alt = "Knights of Columbus Logo" # alt text for logo image, be screen reader friendly!
   header = "img/header.jpg" # Header image. Path relative to "static"
-  title = "Decorah Knights of Columbus" # Logo title, otherwise will use site title
-  subtitle = "Welcome to the Council 4208 website" # Logo subtitle
+  title = "Decorah Knights" # Logo title, otherwise will use site title
+  subtitle = "Knights of Columbus - Council 4208" # Logo subtitle
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
