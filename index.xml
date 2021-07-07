@@ -8,11 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Jul 2021 12:25:37 -0500</lastBuildDate><atom:link href="https://decorahknights.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Event</title>
-      <link>https://decorahknights.org/events/event/</link>
+      <title>Example Event</title>
+      <link>https://decorahknights.org/events/example-event/</link>
       <pubDate>Wed, 07 Jul 2021 15:00:41 -0500</pubDate>
       
-      <guid>https://decorahknights.org/events/event/</guid>
+      <guid>https://decorahknights.org/events/example-event/</guid>
       <description>Sample text.</description>
     </item>
     
