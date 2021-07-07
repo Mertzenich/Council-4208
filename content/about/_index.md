@@ -1,6 +1,4 @@
 ---
-title: "About"
-date: 2000-06-13T20:37:35-05:00
 draft: false
 ---
 

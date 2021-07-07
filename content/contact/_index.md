@@ -1,6 +1,4 @@
 ---
-title: "Contact"
-date: 2000-06-13T21:38:44-05:00
 draft: false
 ---
 

@@ -1,25 +1,90 @@
-baseURL = "https://decorahknights.org"
+baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Decorah Knights of Columbus"
-theme = "mixedpaper"
-enableRobotsTXT = true
-paginate = 5
-#summaryLength = 100 # Length of post text to show on home
-pygmentsUseClasses = true
-#staticDir = ["static1", "static2"]
+title = "Decorah Knights"
+paginate = "10" # Number of posts per page
+theme = "dpsg"
 
-#[author]
-#name = "John Smith"
+[Author] # Used in authorbox
+  name = "Decorah Knights"
+  bio = "Poster of content"
+  avatar = "img/avatar.png"
 
-# Bar navigation
-[[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 1
+[Params]
+  description = "Decorah Knights of Columbus Council 4208 News and Information" # Site description. Used in meta description
+  copyright = "Decorah Knights of Columbus" # Footer copyright holder, otherwise will use site title
+  # opengraph = true # Enable OpenGraph if true
+  # schema = true # Enable Schema
+  # twitter_cards = true # Enable Twitter Cards if true
+  readmore = true # Show "Read more" button in list if true
+  # authorbox = true # Show authorbox at bottom of pages if true
+  # toc = true # Enable Table of Contents
+  pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
+  indexPager = true # Show pager navigation on index page
+  post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
+  mainSections = ["posts", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
+  photosSections = ["photos"] # Specify section pages to show on home page and the "Recent photos" widget
+  # dateformat = "02.01.2006" # Change the format of dates
+  # customCSS = ["css/custom.css"] # Include custom CSS files, can also be used per-page as front matter attribute
+  # customJS = ["js/custom.js"] # Include custom JS files
+  # customPartial = "piwik.html" # Include custom partials, e.g. tracking codes
 
-[[menu.main]]
-identifier = "contact"
-name = "Contact"
-url = "/contact/"
-weight = 1
+[Params.logo]
+  image = "img/kofc_icon.png" # Logo image. Path relative to "static"
+  image_alt = "Knights of Columbus Logo" # alt text for logo image, be screen reader friendly!
+  header = "img/header.jpg" # Header image. Path relative to "static"
+  title = "Decorah Knights of Columbus" # Logo title, otherwise will use site title
+  subtitle = "Welcome to the Council 4208 website" # Logo subtitle
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  # list = "right"  # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  # alternatively "ddg-search" can be used, to search via DuckDuckGo
+  widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
+
+# [Params.footer]
+#   text = "[Imprint and Privacy](/imprint)" # Extra text in footer row, understands markdown
+#   right = "Donate!" # Right-aligned text in footer row, optional, understands markdown
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  facebook = "https://www.facebook.com/decorahknights4208"
+  email = "example@example.com"
+  # twitter = "username"
+  # instagram = "username"
+  # linkedin = "username"
+  # telegram = "username"
+  # github = "username"
+  # gitlab = "username"
+  # bitbucket = "username"
+
+# Custom social links
+# [[Params.widgets.social.custom]]
+#   title = "YouTube"
+#   url = "https://www.youtube.com/channel/UCIt9onMWvF9k-zL0NuRwsKQ"
+#   # icon = "youtube.svg" # Optional. Path relative to "layouts/partials"
+
+# Custom menu items, normally controlled via front matter in /content files
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
