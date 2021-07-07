@@ -43,7 +43,7 @@ theme = "dpsg"
   # Enable widgets in given order
   # alternatively "ddg-search" can be used, to search via DuckDuckGo
   # widgets = ["events", "recent", "categories", "taglist", "social", "languages"]
-  widgets = ["events", "categories", "taglist", "social", "languages"]
+  widgets = ["events"]
 
 # [Params.footer]
 #   text = "[Imprint and Privacy](/imprint)" # Extra text in footer row, understands markdown
