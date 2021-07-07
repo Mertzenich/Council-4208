@@ -2,7 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Decorah Knights"
 paginate = "10" # Number of posts per page
-theme = "dpsg"
+theme = "themes/dpsg"
 
 [Author] # Used in authorbox
   name = "Decorah Knights"
