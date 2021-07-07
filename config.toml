@@ -30,7 +30,7 @@ theme = "dpsg"
   # customPartial = "piwik.html" # Include custom partials, e.g. tracking codes
 
 [Params.logo]
-  image = "img/kofc_icon.pnga" # Logo image. Path relative to "static"
+  image = "img/kofc_icon.png" # Logo image. Path relative to "static"
   image_alt = "Knights of Columbus Logo" # alt text for logo image, be screen reader friendly!
   header = "img/header.jpg" # Header image. Path relative to "static"
   title = "Decorah Knights of Columbus" # Logo title, otherwise will use site title
