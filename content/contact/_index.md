@@ -2,7 +2,7 @@
 draft: false
 ---
 
-# 2020-2021 Council Officers:
+# 2021-2022 Council Officers:
 - Grand Knight - Tom Hartman (563-379-1093; hartmant81@gmail.com)
 - Chaplain - Father Donald Hertges
 - Deputy Grand Knight - Randy Schissel
