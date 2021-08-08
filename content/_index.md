@@ -6,8 +6,6 @@ draft: false
 
 # Welcome
 
-Sticky content goes here. If there is a short blurb you wish to be always at the top of the site this is what it would look like. It would be good to have a short introduction to the Knights of Columbus/Council 4208 that could give people some basic information. It shouldn't be large, probably just a paragraph, as to not distract from the posts which you will make below.
-
-- I need a good header image for the site.
+Welcome to the official website for Saint Benedict’s Council 4208, 307 W. Main Street, Decorah, Iowa. Please feel free to contact us via 563-382-9631 or decorahknights@gmail.com . If you are a practical (practicing) Catholic man, age 18 or older, we welcome you to join the leading organization of Catholic laymen in the world. Click on the following link for MEMBERSHIP FREQUENTLY ASKED QUESTIONS: https://www.kofc.org/en/who-we-are/about-membership/frequently-asked-questions.html . To join the Knights of Columbus, click on the following link: https://www.kofc.org/secure/en/join/join-the-knights.html
 
 ---
