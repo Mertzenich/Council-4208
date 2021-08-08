@@ -3,6 +3,8 @@ draft: false
 ---
 
 # Saint Benedict's Knights of Columbus Council 4208
+Welcome to the official website for Saint Benedict’s Council 4208, 307 W. Main Street, Decorah, Iowa. Please feel free to contact us via 563-382-9631 or decorahknights@gmail.com . If you are a practical (practicing) Catholic man, age 18 or older, we welcome you to join the leading organization of Catholic laymen in the world. Click on the following link for MEMBERSHIP FREQUENTLY ASKED QUESTIONS: https://www.kofc.org/en/who-we-are/about-membership/frequently-asked-questions.html . To join the Knights of Columbus, click on the following link: https://www.kofc.org/secure/en/join/join-the-knights.html
+
 Saint Benedict's Knights of Columbus Council 4208 in Decorah, Iowa, is VERY active and has been awarded the [Star Council Award](https://www.kofc.org/en/for-members/resources/star-council-award.html) for service to God and God's people.
 
 If you are a practical (practicing) Catholic gentleman, we invite you to join us by clicking on the following link: https://www.kofc.org/apps/joinus/en/registration/index.html
