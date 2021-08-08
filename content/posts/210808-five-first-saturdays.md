@@ -10,3 +10,4 @@ https://fatima.org/wp-content/uploads/2019/09/lf057-short_expl_five_first_sat-20
 
 ![five first saturdays](../210808-five-first-saturdays.png)
 
+<!--more-->
