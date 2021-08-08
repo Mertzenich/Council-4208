@@ -36,14 +36,14 @@ theme = "dpsg"
   title = "Decorah Knights" # Logo title, otherwise will use site title
   subtitle = "Knights of Columbus - Council 4208" # Logo subtitle
 
-# [Params.sidebar]
-#   home = "right" # Configure layout for home page
-#   # list = "right"  # Configure layout for list pages
-#   single = false # Configure layout for single pages
-#   # Enable widgets in given order
-#   # alternatively "ddg-search" can be used, to search via DuckDuckGo
-#   # widgets = ["events", "recent", "categories", "taglist", "social", "languages"]
-#   widgets = ["ddg-search", "events"]
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  # list = "right"  # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  # alternatively "ddg-search" can be used, to search via DuckDuckGo
+  # widgets = ["events", "recent", "categories", "taglist", "social", "languages"]
+  widgets = ["events"]
 
 # [Params.footer]
 #   text = "[Imprint and Privacy](/imprint)" # Extra text in footer row, understands markdown
