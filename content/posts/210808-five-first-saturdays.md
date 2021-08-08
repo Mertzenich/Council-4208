@@ -8,6 +8,7 @@ Did you make your First Saturday devotion today? If not, how about putting it on
 
 https://fatima.org/wp-content/uploads/2019/09/lf057-short_expl_five_first_sat-2019.pdf
 
+<!--more-->
+
 ![five first saturdays](/posts/210808-five-first-saturdays.png)
 
-<!--more-->
