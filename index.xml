@@ -25,15 +25,5 @@
       <description>Sample text.</description>
     </item>
     
-    <item>
-      <title>My First Post</title>
-      <link>https://decorahknights.org/posts/my-first-post/</link>
-      <pubDate>Wed, 07 Jul 2021 12:11:17 -0500</pubDate>
-      
-      <guid>https://decorahknights.org/posts/my-first-post/</guid>
-      <description>Lorem ipsum dolor sit test amet, consectetuer adipiscing elit. Donec hendrerit tempor tellus. Donec pretium posuere tellus. Proin quam nisl, tincidunt et, mattis eget, convallis nec, purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla posuere. Donec vitae dolor. Nullam tristique diam non turpis. Cras placerat accumsan nulla. Nullam rutrum. Nam vestibulum accumsan nisl.
-Aliquam erat volutpat. Nunc eleifend leo vitae magna. In id erat non orci commodo lobortis.</description>
-    </item>
-    
   </channel>
 </rss>
