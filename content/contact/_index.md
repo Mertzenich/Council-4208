@@ -2,6 +2,8 @@
 draft: false
 ---
 
+Council email: decorahknights@gmail.com
+
 # 2021-2022 Council Officers:
 - Grand Knight - Tom Hartman (563-379-1093; hartmant81@gmail.com)
 - Chaplain - Father Donald Hertges
