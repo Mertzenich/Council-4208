@@ -14,4 +14,4 @@ FAITH & DESSERT SERIES
 --CHILD CARE: Although child care will not be provided, feel free to bring children along.
 --WHY THIS IS BEING DONE: It has become clear that adult Catholics are sorely in need of education in the Faith. This program seeks to help in this area by being stimulating, engaging, relatively brief, prayerful, enjoyable, and yummy.
 
-![faith cake](/posts/faith cake cropped.jpg)
+![faith cake](/posts/faith-cake-cropped.jpg)
