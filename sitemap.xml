@@ -1,12 +1,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-      <loc>https://decorahknights.org/posts/210813-blessed-michael-mcgivney/</loc>
-      <lastmod>2021-08-13T12:12:17-05:00</lastmod>
+      <loc>https://decorahknights.org/</loc>
+      <lastmod>2021-08-13T16:07:41-05:00</lastmod>
     </url>
     
     <url>
-      <loc>https://decorahknights.org/</loc>
+      <loc>https://decorahknights.org/events/</loc>
+      <lastmod>2021-08-13T16:07:41-05:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://decorahknights.org/events/210823-faith-and-dessert/</loc>
+      <lastmod>2021-08-13T16:07:41-05:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://decorahknights.org/posts/210813-blessed-michael-mcgivney/</loc>
       <lastmod>2021-08-13T12:12:17-05:00</lastmod>
     </url>
     
@@ -17,11 +27,6 @@
     
     <url>
       <loc>https://decorahknights.org/events/210809-eucharistic-adoration/</loc>
-      <lastmod>2021-08-08T16:00:41-05:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>https://decorahknights.org/events/</loc>
       <lastmod>2021-08-08T16:00:41-05:00</lastmod>
     </url>
     
