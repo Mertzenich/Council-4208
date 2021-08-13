@@ -1,5 +1,5 @@
 ---
-title: "FAITH & DESSERT CATECHETICAL SERIES"
+title: "FAITH & DESSERT CATECHETICAL SERIES starting 23 August"
 date: 2021-08-13T16:07:41-05:00
 draft: false
 ---
