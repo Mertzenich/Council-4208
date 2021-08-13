@@ -1,8 +1,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
+      <loc>https://decorahknights.org/posts/210813-blessed-michael-mcgivney/</loc>
+      <lastmod>2021-08-13T12:12:17-05:00</lastmod>
+    </url>
+    
+    <url>
       <loc>https://decorahknights.org/</loc>
-      <lastmod>2021-08-08T16:00:41-05:00</lastmod>
+      <lastmod>2021-08-13T12:12:17-05:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://decorahknights.org/posts/</loc>
+      <lastmod>2021-08-13T12:12:17-05:00</lastmod>
     </url>
     
     <url>
@@ -22,11 +32,6 @@
     
     <url>
       <loc>https://decorahknights.org/posts/210808-five-first-saturdays/</loc>
-      <lastmod>2021-08-08T12:12:17-05:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>https://decorahknights.org/posts/</loc>
       <lastmod>2021-08-08T12:12:17-05:00</lastmod>
     </url>
     
