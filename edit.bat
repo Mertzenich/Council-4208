@@ -1,2 +1,2 @@
 @echo off
-tools\\code\\Code.exe content
+tools\\code\\bin\code.cmd content\\ -n
