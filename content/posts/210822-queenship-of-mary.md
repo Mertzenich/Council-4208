@@ -5,3 +5,4 @@ draft: false
 ---
 On Sunday the 22nd of August, we celebrate the Queenship of Mary: https://www.churchmilitant.com/video/episode/the-queenship-of-mary-22-aug
 <!--more-->
+For more information, see also https://www.franciscanmedia.org/saint-of-the-day/queenship-of-the-blessed-virgin-mary
