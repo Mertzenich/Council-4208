@@ -1,6 +1,6 @@
 ---
-title: "FAITH & DESSERT CATECHETICAL SERIES starting 23 August"
-date: 2021-08-13T16:07:41-05:00
+title: "FAITH & DESSERT CATECHETICAL SERIES"
+date: 2021-08-24T19:49:41-05:00
 draft: false
 ---
 
@@ -8,7 +8,7 @@ FAITH & DESSERT SERIES
 
 -WHAT IT'S ABOUT: The program will include dessert, adult-oriented catechesis (religious instruction), fellowship & conversation, and Benediction.
 
--TOPIC FOR MONDAY 23 AUGUST 2021 PROGRAM: What's the meaning of life?
+-TOPIC FOR MONDAY 27 SEPTEMBER 2021 PROGRAM: What's the meaning of life?
 
 -WHEN & WHERE IT WILL TAKE PLACE: Will start Monday 23 August 2021 in Saint Benedict's parish hall. It will run the 4th Monday of the following months @ 7 pm: August, September, October, January, February, March. Program will end each time @ 7:45 pm with Benediction; thus, this program will be short, SWEET (dessert!), and educational.
 
