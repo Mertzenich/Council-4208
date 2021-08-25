@@ -1,6 +1,6 @@
 ---
 title: "Award for Prayer Garden"
-date: 2021-08-08T12:11:17-05:00
+date: 2021-08-24T12:11:17-05:00
 draft: false
 ---
 
