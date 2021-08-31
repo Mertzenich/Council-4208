@@ -1,5 +1,5 @@
 ---
-title: "Concerning Covid Restrictions"
+title: "Concerning Covid Restrictions and "Vaccine" Safety"
 date: 2021-08-24T19:22:43-05:00
 draft: false
 ---
