@@ -6,6 +6,6 @@ draft: false
 Catholic Info Hour, Every week night, 6-7 PM CT, Catholic News & Commentary
 <!--more-->
 
-![Catholic Info Hour](/posts/210907-Catholic-Info-Hour.jpg)
+![Catholic Info Hour](/posts/210907-Catholic-Info-Hour.JPG)
 
 https://www.churchmilitant.com/infohourdetails
