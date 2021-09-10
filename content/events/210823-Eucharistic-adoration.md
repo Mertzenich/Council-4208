@@ -5,27 +5,11 @@ draft: false
 ---
 Eucharistic Adoration in Saint Benedict's Parish
 <!--more-->
-Hello Adorers,
 
-Below are some possible intentions for your time in adoration. May the Lord work in and through your prayers. 
-For schools, for staff, for children, for parents as school begins. 
-For those who are angry at the Church. 
-For the people of Afghanistan and Haiti. 
-"Dear Lord, Jesus Christ, in your precious name, I pray for the strengthening of the Catholic faith among my children and for the return to your blessed Church of all lapsed and non-practicing Catholics . . . for the strengthening and/or return of your Catholic flock of sheep to you, our Divine Shepard, and to your divinely ordained Holy Catholic Church."
-
-Thank you for your prayers for our parish.
-
---
-Yours in Ora et Labora,
-Tyler Wheeler
-Pastoral Associate 
-St. Benedict Catholic Church 
-~ Make Disciples of Jesus Christ ~
-http://www.stbenedictcc.com/
 
 Eucharistic adoration
 
--->Eucharistic adoration occurs in the Saint Benedict's parish chapel each Monday, except when preempted by a funeral, adverse weather conditions, or a major holiday; call 563-382-9631 if you have questions. All people are welcome. Knights of Columbus are strongly encouraged to engage in Eucharistic adoration. [Please note that during the coronavirus/COVID19/Wuhan virus situation in 2020, Eucharistic adoration has been moved to the main section of the Church building.]
+-->Eucharistic adoration occurs in the Saint Benedict's parish each Monday, except when preempted by a funeral, adverse weather conditions, or a major holiday; call 563-382-9631 if you have questions. All people are welcome. Knights of Columbus are strongly encouraged to engage in Eucharistic adoration. [Please note that during the coronavirus/COVID19/Wuhan virus situation in 2020, Eucharistic adoration has been moved to the main section of the Church building.]
 
 -->Normally,
 1) exposition of the blessed Sacrament takes place at 7:00 am;
