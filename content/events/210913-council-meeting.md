@@ -1,6 +1,6 @@
 ---
 title: "Council Meeting on Monday 13 September 2021"
-date: 2021-09-13T17:46:52-05:00
+date: 2021-09-10T17:46:52-05:00
 draft: false
 ---
 Saint Benedict's Knights of Columbus will meet on Monday September 13th, 2021.
