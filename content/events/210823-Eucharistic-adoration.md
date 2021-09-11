@@ -1,6 +1,6 @@
 ---
-title: "Eucharistic Adoration Every Monday in Saint Benedict's Parish"
-date: 2021-08-22T19:37:23-05:00
+title: "Eucharistic Adoration Occurs on Monday's in Saint Benedict's Parish"
+date: 2021-09-11T11:42:00-05:00
 draft: false
 ---
 Eucharistic Adoration in Saint Benedict's Parish

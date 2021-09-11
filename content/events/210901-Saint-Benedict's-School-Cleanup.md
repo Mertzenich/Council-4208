@@ -1,6 +1,6 @@
 ---
-title: "Saint Benedict's School Grounds Cleanup"
-date: 2021-09-01T16:00:16-05:00
+title: "Saint Benedict's School Grounds Cleanup on 2 September 2021"
+date: 2021-08-01T16:00:16-05:00
 draft: false
 ---
 Saint Benedict's School Grounds Cleanup on 2 September 2021
