@@ -1,17 +1,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-      <loc>https://decorahknights.org/events/210913-council-meeting/</loc>
-      <lastmod>2021-09-10T17:46:52-05:00</lastmod>
+      <loc>https://decorahknights.org/</loc>
+      <lastmod>2021-09-11T11:42:00-05:00</lastmod>
     </url>
     
     <url>
-      <loc>https://decorahknights.org/</loc>
-      <lastmod>2021-09-10T17:46:52-05:00</lastmod>
+      <loc>https://decorahknights.org/events/210823-eucharistic-adoration/</loc>
+      <lastmod>2021-09-11T11:42:00-05:00</lastmod>
     </url>
     
     <url>
       <loc>https://decorahknights.org/events/</loc>
+      <lastmod>2021-09-11T11:42:00-05:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://decorahknights.org/events/210913-council-meeting/</loc>
       <lastmod>2021-09-10T17:46:52-05:00</lastmod>
     </url>
     
@@ -31,11 +36,6 @@
     </url>
     
     <url>
-      <loc>https://decorahknights.org/events/210901-saint-benedicts-school-cleanup/</loc>
-      <lastmod>2021-09-01T16:00:16-05:00</lastmod>
-    </url>
-    
-    <url>
       <loc>https://decorahknights.org/posts/210808-five-first-saturdays/</loc>
       <lastmod>2021-08-29T12:12:17-05:00</lastmod>
     </url>
@@ -48,11 +48,6 @@
     <url>
       <loc>https://decorahknights.org/posts/210827-catholics-are-born-for-combat/</loc>
       <lastmod>2021-08-27T17:11:17-05:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>https://decorahknights.org/events/210824-upcoming-events/</loc>
-      <lastmod>2021-08-24T19:52:48-05:00</lastmod>
     </url>
     
     <url>
@@ -76,11 +71,6 @@
     </url>
     
     <url>
-      <loc>https://decorahknights.org/events/210823-eucharistic-adoration/</loc>
-      <lastmod>2021-08-22T19:37:23-05:00</lastmod>
-    </url>
-    
-    <url>
       <loc>https://decorahknights.org/posts/210822-queenship-of-mary/</loc>
       <lastmod>2021-08-21T11:57:38-05:00</lastmod>
     </url>
@@ -101,8 +91,8 @@
     </url>
     
     <url>
-      <loc>https://decorahknights.org/events/210809-eucharistic-adoration/</loc>
-      <lastmod>2021-08-08T16:00:41-05:00</lastmod>
+      <loc>https://decorahknights.org/events/210901-saint-benedicts-school-cleanup/</loc>
+      <lastmod>2021-08-01T16:00:16-05:00</lastmod>
     </url>
     
     <url>
