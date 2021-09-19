@@ -9,3 +9,5 @@ Dr. Dan Stock Blasts CDC and Mt. Vernon School Board Over "Useless" COVID Restri
 <!--more-->
 
 Citizens Vaccine Safety Review Board Press Conference 26 August 2021: https://rumble.com/vloaj7-citizens-vaccine-safety-review-board-press-conference-08-26-21.html
+
+See also https://usawatchdog.com/cv19-vaccines-are-poison-karen-kingston/
