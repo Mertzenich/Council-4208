@@ -1,5 +1,5 @@
 ---
-title: "Patriotic Rosary Every First Saturday of the Month at 4:30 PM"
+title: "Recurring event: Patriotic Rosary Every First Saturday of the Month at 4:30 PM"
 date: 2020-09-10T17:45:52-05:00
 draft: false
 ---

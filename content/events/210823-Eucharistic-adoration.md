@@ -1,5 +1,5 @@
 ---
-title: "Eucharistic Adoration Occurs on Monday's in Saint Benedict's Parish"
+title: "Recurring event: Eucharistic Adoration Occurs on Monday's in Saint Benedict's Parish"
 date: 2020-09-11T11:42:00-05:00
 draft: false
 ---

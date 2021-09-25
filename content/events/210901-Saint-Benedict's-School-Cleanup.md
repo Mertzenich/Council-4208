@@ -1,5 +1,5 @@
 ---
-title: "Saint Benedict's School Grounds Cleanup on 2 September 2021"
+title: "Past event: Saint Benedict's School Grounds Cleanup on 2 September 2021"
 date: 2020-09-10T17:44:52-05:00
 draft: false
 ---

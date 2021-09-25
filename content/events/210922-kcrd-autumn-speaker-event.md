@@ -1,5 +1,5 @@
 ---
-title: "KCRD Autumn Speaker Event featuring Fr. James Altman on 22 September 2021 in Dubuque"
+title: "Past event: KCRD Autumn Speaker Event featuring Fr. James Altman on 22 September 2021 in Dubuque"
 date: 2020-09-10T17:43:52-05:00
 draft: false
 ---

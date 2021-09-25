@@ -1,5 +1,5 @@
 ---
-title: "FAITH & DESSERT CATECHETICAL SERIES continues on Monday 27 September 2021"
+title: "Upcoming event: FAITH & DESSERT CATECHETICAL SERIES continues on Monday 27 September 2021"
 date: 2021-08-24T19:49:41-05:00
 draft: false
 ---

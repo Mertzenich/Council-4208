@@ -1,5 +1,5 @@
 ---
-title: "Council Meeting Each 2nd Monday of the Month at 7 pm with Meal Prior to Meeting"
+title: "Recurring event: Council Meeting Each 2nd Monday of the Month at 7 pm with Meal Prior to Meeting"
 date: 2020-09-10T17:46:52-05:00
 draft: false
 ---
