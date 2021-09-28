@@ -6,11 +6,11 @@ draft: false
 
 FAITH & DESSERT SERIES
 
--WHAT IT'S ABOUT: The program will include dessert, adult-oriented catechesis (religious instruction), fellowship & conversation, and Benediction.
+-WHAT IT'S ABOUT: The program will include dessert, adult-oriented catechesis (religious instruction), fellowship & conversation, and Benediction. You can come to any session; the programs stand alone.
 
--TOPIC FOR MONDAY 27 SEPTEMBER 2021 PROGRAM: MAN’S RELATIONSHIP TO GOD
+-TOPIC FOR MONDAY 25 OCTOBER 2021 PROGRAM: MAN’S RELATIONSHIP TO GOD
 
--WHEN & WHERE IT WILL TAKE PLACE: Started Monday 23 August 2021 in Saint Benedict's parish hall. It will run the 4th Monday of the following months @ 7 pm: August, September, October, January, February, March. Program will end each time @ 7:45 pm with Benediction; thus, this program will be short, SWEET (dessert!), and educational.
+-WHEN & WHERE IT WILL TAKE PLACE: This program started on Monday 23 August 2021. It takes place in Saint Benedict's parish hall. It will run the 4th Monday of the following months @ 7 pm: August, September, October, January, February, March. Program will end each time @ 7:45 pm with Benediction; thus, this program will be short, SWEET (dessert!), and educational.
 
 -WHO'S DOING THIS: Sponsored by the Knights of Columbus, but this is NOT limited to members of the Knights of Columbus. All people are invited!!!!!!!!!! Feel free to invite friends, acquaintances, and family members. Remember: What you don't know *CAN* hurt you!
 
