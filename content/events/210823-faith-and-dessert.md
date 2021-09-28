@@ -1,6 +1,6 @@
 ---
-title: "Upcoming event: FAITH & DESSERT CATECHETICAL SERIES continues on Monday 27 September 2021"
-date: 2021-08-24T19:49:41-05:00
+title: "Upcoming event: FAITH & DESSERT CATECHETICAL SERIES continues on Monday 25 October 2021"
+date: 2021-08-24T19:46:41-05:00
 draft: false
 ---
 
@@ -8,9 +8,9 @@ FAITH & DESSERT SERIES
 
 -WHAT IT'S ABOUT: The program will include dessert, adult-oriented catechesis (religious instruction), fellowship & conversation, and Benediction.
 
--TOPIC FOR MONDAY 27 SEPTEMBER 2021 PROGRAM: What's the meaning of life?
+-TOPIC FOR MONDAY 27 SEPTEMBER 2021 PROGRAM: MAN’S RELATIONSHIP TO GOD
 
--WHEN & WHERE IT WILL TAKE PLACE: Will start Monday 23 August 2021 in Saint Benedict's parish hall. It will run the 4th Monday of the following months @ 7 pm: August, September, October, January, February, March. Program will end each time @ 7:45 pm with Benediction; thus, this program will be short, SWEET (dessert!), and educational.
+-WHEN & WHERE IT WILL TAKE PLACE: Started Monday 23 August 2021 in Saint Benedict's parish hall. It will run the 4th Monday of the following months @ 7 pm: August, September, October, January, February, March. Program will end each time @ 7:45 pm with Benediction; thus, this program will be short, SWEET (dessert!), and educational.
 
 -WHO'S DOING THIS: Sponsored by the Knights of Columbus, but this is NOT limited to members of the Knights of Columbus. All people are invited!!!!!!!!!! Feel free to invite friends, acquaintances, and family members. Remember: What you don't know *CAN* hurt you!
 
