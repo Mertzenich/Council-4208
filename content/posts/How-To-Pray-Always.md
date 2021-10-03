@@ -5,7 +5,7 @@ draft: false
 ---
 The way to grow in holiness and peace and joy is through constant prayer. But how is one to do that?
 <!--more-->
-The way to repent and to growth in holiness is to "pray always."
+The way to repent and to grow in holiness is to "pray always."
 
 Luke 18:1, https://bible.usccb.org/bible/luke/18?1 . 1 Thessalonians 5:17, https://bible.usccb.org/bible/1thessalonians/5?17 . Ephesians 6:18, https://bible.usccb.org/bible/ephesians/6?18
  . 1 Samuel 7:8, https://bible.usccb.org/bible/1samuel/7?8
