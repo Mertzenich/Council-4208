@@ -9,7 +9,7 @@ Eucharistic Adoration in Saint Benedict's Parish
 
 Eucharistic adoration
 
--->Eucharistic adoration occurs in the Saint Benedict's parish each Monday, except when preempted by a funeral, adverse weather conditions, or a major holiday; call 563-382-9631 if you have questions. All people are welcome. Knights of Columbus are strongly encouraged to engage in Eucharistic adoration. [Please note that during the coronavirus/COVID19/Wuhan virus situation in 2020, Eucharistic adoration has been moved to the main section of the Church building.]
+-->Eucharistic adoration occurs in the Saint Benedict's parish each Monday, except when preempted by a funeral, adverse weather conditions, or a major holiday; call 563-382-9631 if you have questions. All people are welcome. Knights of Columbus are strongly encouraged to engage in Eucharistic adoration. [Please note that during the coronavirus/COVID19/Wuhan virus situation, Eucharistic adoration has been moved to the main section of the Church building.]
 
 -->Normally,
 1) exposition of the blessed Sacrament takes place at 7:00 am;
@@ -40,7 +40,7 @@ Excerpts below are from the Compendium of the CCC*. Get your own copy at http://
 
 285. How long does the presence of Christ last in the Eucharist?
 
-The presence of Christ continues in the Eucharist as long as the eucharistic species subsist.
+The presence of Christ continues in the Eucharist as long as the Eucharistic species subsist.
 
 Further reading: CCC 1377
 
@@ -48,5 +48,7 @@ Further reading: CCC 1377
 The worship due to the sacrament of the Eucharist, whether during the celebration of the Mass or outside it, is the worship of latria, that is, the adoration given to God alone. The Church guards with the greatest care Hosts that have been consecrated. She brings them to the sick and to other persons who find it impossible to participate at Mass. She also presents them for the solemn adoration of the faithful and she bears them in processions. The Church encourages the faithful to make frequent visits to adore the Blessed Sacrament reserved in the tabernacle.
 
 Further reading: CCC 1378-1381, 1418
+
+Here is an important prayer that can be offered during Eucharistic adoration. It is a prayer for those who are distanced from the Church: "Dear Lord, Jesus Christ, in your precious name, I pray for the strengthening of the Catholic faith among my children and for the return to your blessed Church of all lapsed and non-practicing Catholics . . . for the strengthening and/or return of your Catholic flock of sheep to you, our Divine Shepard, and to your divinely ordained Holy Catholic Church."
 
 *CCC = Catechism of the Catholic Church
