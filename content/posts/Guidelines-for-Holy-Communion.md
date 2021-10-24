@@ -1,6 +1,6 @@
 ---
 title: "Guidelines for the Reception of Holy Communion"
-date: 2021-10-16T19:07:31-05:00
+date: 2021-10-24T13:00:31-05:00
 draft: false
 ---
 These guidelines seek to remind all those who may attend Catholic liturgies of the present discipline of the Church with regard to the sharing of Eucharistic Communion.
