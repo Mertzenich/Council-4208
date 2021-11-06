@@ -1,5 +1,5 @@
 ---
-title: "Fraternal Benefit Night, 9 November 2021. Topic: “Financial Success Under Any Circumstance”"
+title: "Upcoming Event: Fraternal Benefit Night, 9 November 2021. Topic: “Financial Success Under Any Circumstance”"
 date: 2021-08-24T19:45:41-05:00
 draft: false
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Upcoming event: FAITH & DESSERT CATECHETICAL SERIES continues on Monday 25 October 2021"
-date: 2021-08-24T19:46:41-05:00
+title: "Recurring event: FAITH & DESSERT CATECHETICAL SERIES"
+date: 2020-09-11T11:45:00-05:00
 draft: false
 ---
 
@@ -8,7 +8,7 @@ FAITH & DESSERT SERIES
 
 -WHAT IT'S ABOUT: The program will include dessert, adult-oriented catechesis (religious instruction), fellowship & conversation, and Benediction. You can come to any session; the programs stand alone.
 
--TOPIC FOR MONDAY 25 OCTOBER 2021 PROGRAM: MAN’S RELATIONSHIP TO GOD
+-TOPIC: Learn the Faith with this series based on the Baltimore Catechism.
 
 -WHEN & WHERE IT WILL TAKE PLACE: This program started on Monday 23 August 2021. It takes place in Saint Benedict's parish hall. It will run the 4th Monday of the following months @ 7 pm: August, September, October, January, February, March. Program will end each time @ 7:45 pm with Benediction; thus, this program will be short, SWEET (dessert!), and educational.
 

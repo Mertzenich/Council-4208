@@ -1,6 +1,6 @@
 ---
-title: "Parish Mission October 19 and 20, 2021"
-date: 2021-08-24T19:46:41-05:00
+title: "Past event: Parish Mission October 19 and 20, 2021"
+date: 2020-09-10T17:35:52-05:00
 draft: false
 ---
 Parish mission will be on 19 & 20 October.
