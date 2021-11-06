@@ -2,7 +2,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
       <loc>https://decorahknights.org/</loc>
-      <lastmod>2021-10-24T13:00:31-05:00</lastmod>
+      <lastmod>2021-11-06T14:41:18-05:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://decorahknights.org/events/</loc>
+      <lastmod>2021-11-06T14:41:18-05:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://decorahknights.org/events/pancake-breakfast/</loc>
+      <lastmod>2021-11-06T14:41:18-05:00</lastmod>
     </url>
     
     <url>
@@ -81,21 +91,6 @@
     </url>
     
     <url>
-      <loc>https://decorahknights.org/events/</loc>
-      <lastmod>2021-08-24T19:46:41-05:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>https://decorahknights.org/events/parish-mission-in-october/</loc>
-      <lastmod>2021-08-24T19:46:41-05:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>https://decorahknights.org/events/210823-faith-and-dessert/</loc>
-      <lastmod>2021-08-24T19:46:41-05:00</lastmod>
-    </url>
-    
-    <url>
       <loc>https://decorahknights.org/events/fraternal-benefit-night/</loc>
       <lastmod>2021-08-24T19:45:41-05:00</lastmod>
     </url>
@@ -133,6 +128,11 @@
     <url>
       <loc>https://decorahknights.org/posts/210813-blessed-michael-mcgivney/</loc>
       <lastmod>2021-08-13T12:12:17-05:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://decorahknights.org/events/210823-faith-and-dessert/</loc>
+      <lastmod>2020-09-11T11:45:00-05:00</lastmod>
     </url>
     
     <url>
@@ -178,6 +178,11 @@
     <url>
       <loc>https://decorahknights.org/events/210925-cpid-drive/</loc>
       <lastmod>2020-09-10T17:40:52-05:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://decorahknights.org/events/parish-mission-in-october/</loc>
+      <lastmod>2020-09-10T17:35:52-05:00</lastmod>
     </url>
     
     <url>
