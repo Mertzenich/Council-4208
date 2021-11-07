@@ -1,6 +1,6 @@
 ---
-title: "Upcoming Event: Pancake Breakfast Nov 7, 2021, 8 am to noon"
-date: 2021-11-06T14:41:18-05:00
+title: "Past Event: Pancake Breakfast Nov 7, 2021, 8 am to noon"
+date: 2020-09-10T17:30:52-05:00
 draft: false
 ---
 Knights of Columbus Council 4208 Pancake Breakfast to Raise Funds for Seminarians & Pro-Life Efforts

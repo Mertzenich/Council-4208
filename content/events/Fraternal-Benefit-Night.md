@@ -5,9 +5,8 @@ draft: false
 ---
 Knights of Columbus Fraternal Benefit Night with Van Mueller – November 9th, 2021
 <!--more-->
-RSVP for the meeting on November 9th, 2021: https://vanmueller.com/kofc-registration-11-9/
 
-Please join us Tuesday November 9th, at 7:00pm CST for the Knights of Columbus Fraternal Benefit Night with Van Mueller..
+Please join us Tuesday November 9th, at 7:00pm CST for the Knights of Columbus Fraternal Benefit Night with Van Mueller. This will take place in the classroom in the basement of Saint Benedict's Parish Building, or you can watch at home by registering at https://vanmueller.com/kofc-registration-11-9/ .
 
 Van’s Topic  “Financial Success Under Any Circumstance”
 
