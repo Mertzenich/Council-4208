@@ -1,6 +1,6 @@
 ---
-title: "Upcoming Event: Fraternal Benefit Night, 9 November 2021. Topic: “Financial Success Under Any Circumstance”"
-date: 2021-08-24T19:45:41-05:00
+title: "Past Event: Fraternal Benefit Night, 9 November 2021. Topic: “Financial Success Under Any Circumstance”"
+date: 2020-09-10T17:25:52-05:00
 draft: false
 ---
 Knights of Columbus Fraternal Benefit Night with Van Mueller – November 9th, 2021

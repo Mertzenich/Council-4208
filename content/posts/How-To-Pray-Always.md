@@ -29,9 +29,10 @@ Personalize the Apostle's Creed in the following way: “I believe in You God, t
 
 Personalize the Our Father (the Lord's prayer) in the following way: "My Father, You are in heaven. Your Name is holy; Your Kingdom is here; Your will is being done on earth just as Your will is being done in heaven. Please give me this day [some grace or some sin to avoid] and forgive me my sins to the same extent that I forgive ["those who sin against me" or "myself"]; and lead me not [to sin in a general or particular way or to avoid that which I should be doing], but deliver me from the temptation to [do this or that or in any way sin]. Amen.”
 
-Personalize the Hail Mary in the following way; some options follow: --“Hail Mother, full of grace. The Lord is with thee. Blessed art thou among women, And blessed is the fruit of thy womb, Jesus. Holy Queen, Mother of God [or Jesus], pray for me, a sinner, now through the moment of my death. Amen.”
---“Hail Mother, full of grace. The Lord is with thee. Blessed art thou among women, And blessed is the fruit of thy womb, Jesus. Holy Queen, Mother of God [or Jesus], pray for me, a sinner, that I may not [name the sin], now through the moment of my death. Amen.”
---“Hail Mother, full of grace. The Lord is with thee. Blessed art thou among women, And blessed is the fruit of thy womb, Jesus. Holy Queen, Mother of God [or Jesus], pray for [a person, place, or thing]. Amen.”
+Personalize the Hail Mary in the following way; some suggestions follow: 
+---->“Hail Mother, full of grace. The Lord is with thee. Blessed art thou among women, And blessed is the fruit of thy womb, Jesus. Holy Queen, Mother of God [or Jesus], pray for me, a sinner, now through the moment of my death. Amen.” 
+---->“Hail Mother, full of grace. The Lord is with thee. Blessed art thou among women, And blessed is the fruit of thy womb, Jesus. Holy Queen, Mother of God [or Jesus], pray for me, a sinner, that I may not [name the sin], now through the moment of my death. Amen.”
+---->“Hail Mother, full of grace. The Lord is with thee. Blessed art thou among women, And blessed is the fruit of thy womb, Jesus. Holy Queen, Mother of God [or Jesus], pray for [a person, place, or thing], now through the moment of [the end of that person, place or thing]. Amen.”
 
 Personalize the Glory Be in the following way: Glory to You, Father, Son, and Holy Spirit, one God. You were, you are, and you will be forever and ever, world without end. Amen.
 
