@@ -21,3 +21,4 @@ Council email: decorahknights@gmail.com
 - Trustee 2 yr - Brian Franzen
 - Trustee 1 yr - Sean Devine Meyer (starting July 2020)
 - District Deputy - Larry Hauber 
+- The Knights of Columbus is a fraternal benefit society, which means we can provide financial security to members and their families, while turning premiums into charitable impact. The Council 4208 Insurance Field Agent is Wally Witt: https://www.facebook.com/decorahknights4208/photos/2821482134761651

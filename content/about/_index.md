@@ -11,9 +11,7 @@ Saint Benedict's Knights of Columbus Council 4208 in Decorah, Iowa, is VERY acti
 
 If you are a practical (practicing) Catholic gentleman, we invite you to join us by clicking on the following link: https://www.kofc.org/apps/joinus/en/registration/index.html
 
-For information about Knights of Columbus insurance, visit https://www.facebook.com/KnightsOfColumbusBormannAgency/
-
-The Council 4208 Insurance Field Agent is Wally Witt: https://www.facebook.com/decorahknights4208/photos/2821482134761651
+The Knights of Columbus is a fraternal benefit society, which means we can provide financial security to members and their families, while turning premiums into charitable impact. For information about Knights of Columbus insurance, visit https://www.facebook.com/KnightsOfColumbusBormannAgency/ . The Council 4208 Insurance Field Agent is Wally Witt: https://www.facebook.com/decorahknights4208/photos/2821482134761651
 
 Patriotic (4th) degree information: http://www.kofc.org/un/en/members/for-patriotic-degree/index.html
 
