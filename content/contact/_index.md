@@ -2,7 +2,9 @@
 draft: false
 ---
 
-Council email: decorahknights@gmail.com
+Council email and telephone: decorahknights@gmail.com ; 563-382-9631. 
+
+For information about Council meetings, go to https://decorahknights.org/events/210913-council-meeting/
 
 # 2021-2022 Council Officers:
 - Grand Knight - Tom Hartman (563-379-1093; hartmant81@gmail.com)
