@@ -38,21 +38,24 @@ Patriotic (4th) degree information: http://www.kofc.org/un/en/members/for-patrio
 # Links & information:
 - Saint Benedict's parish, Decorah, Iowa: https://www.stbenedictcc.com/
 - We Want to Teach! We Want to be Taught: http://www.wewanttobetaught.com/
-- How to figure out if you, a Catholic, should attend a wedding: ["Can I go to this wedding?"](https://www.catholic.com/magazine/print-edition/to-attend-or-not-to-attend)
-- Please send a letter to Pope Francis requesting that he consecrate Russia to the Immaculate Heart of Mary in union with all the Catholic bishops of the world in the solemn and public manner commanded by Our Lord and Our Lady, in the Fatima Message.
+- How to figure out if you, a Catholic, should attend a wedding: https://www.catholic.com/magazine/online-edition/should-i-attend-the-wedding-or-not ; https://www.catholic.com/magazine/online-edition/more-on-wedding-attendance ; https://www.catholic.com/qa/attending-a-non-catholic-wedding
+- Please send a letter to Pope Francis requesting that he consecrate Russia to the Immaculate Heart of Mary in union with all the Catholic bishops of the world in the solemn and public manner commanded by Our Lord and Our Lady, in the Fatima Message. Form letter and petition can be found [here](https://fatima.org/petition/petition-to-our-holy-father-the-consecration-of-russia/).
 
-Here is the Holy Father's address:
-
+    Here is the Holy Father's address:
 ```His Holiness, Pope Francis
-His Holiness Pope Francis
-Apostolic Palace
-00120 Vatican City
+    His Holiness Pope Francis
+    Apostolic Palace
+    00120 Vatican City
 ```
 
-Form letter and petition can be found [here](https://fatima.org/petition/petition-to-our-holy-father-the-consecration-of-russia/).
 
-## Catholic News:
-- https://www.churchmilitant.com/updated-programming-schedule
+## Catholic News & Information:
+- Programming schedule: https://www.churchmilitant.com/updated-programming-schedule
+- Evening News: https://www.churchmilitant.com/video/archive/evening-news
+- The Download: https://www.churchmilitant.com/video/archive/download-series
+- Headlines: https://www.churchmilitant.com/video/archive/headlines
+- Reports: https://www.churchmilitant.com/video/archive/repo
+- Investigations: https://www.churchmilitant.com/search/category/252/investigations
 
 ### 2020 Election Notes:
 - Voter guide: https://www.church-militant.com/2020-catholic-voters-guide
