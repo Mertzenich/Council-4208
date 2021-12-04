@@ -31,8 +31,9 @@ Patriotic (4th) degree information: http://www.kofc.org/un/en/members/for-patrio
 
 ## Catholic News & Information:
 - Programming schedule: https://www.churchmilitant.com/updated-programming-schedule
-- Evening News: https://www.churchmilitant.com/video/archive/evening-news
-- The Download: https://www.churchmilitant.com/video/archive/download-series
+- Catholic Info Hour (Evening News & The Download): https://www.churchmilitant.com/infohourdetails
+- Evening News Archive: https://www.churchmilitant.com/video/archive/evening-news
+- The Download Archive: https://www.churchmilitant.com/video/archive/download-series
 - Headlines: https://www.churchmilitant.com/video/archive/headlines
 - Reports: https://www.churchmilitant.com/video/archive/repo
 - Investigations: https://www.churchmilitant.com/search/category/252/investigations
@@ -48,7 +49,7 @@ Patriotic (4th) degree information: http://www.kofc.org/un/en/members/for-patrio
 # Past Events and Activities
 Here's a sample of past events and activities of Council 4208:
 
-## Jan-July 2019 KNIGHTS OF COLUMBUS 4208 DECORAH
+## Typical Annual Council 4208 activities
 
 ### January
 - 3 Travel Gavel Monona 7pm First Degree(bring new ideas & events to other councils and & eat great food)
@@ -84,11 +85,7 @@ Here's a sample of past events and activities of Council 4208:
 
 ### July
 - 8 Potluck Picnic Installation of Officers Meeting Whalen Cabin 5:30-7:30pm (set up,clean up,4-6 people)
-- 13 Fair Pork Chop Booth 2-6pm (4-6 people 2-3 per 2 hr shift )
-
-## July-Dec Events 2018 KNIGHTS OF COLUMBUS 4208
-
-### July
+- 13 Fair Pork Chop Booth 2-6pm (4-6 people 2-3 per 2 hr shift)
 - 5,12,19 Lawn Chair Night (Serve Food 3-5 people)
 - 9 Potluck Picnic Installation of Officers Whalen Cabin 5:30-7: pm (everyone invited)
 - 14 County Fair Pork Chop Booth 2-6 pm (4-6 people 2-3 per 2hr)
