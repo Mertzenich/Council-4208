@@ -10,4 +10,6 @@ Davis Assembly 271, which includes Saint Benedict’s Council 4208 in Decorah, h
 
 Members of Assembly 271 worked with Saint Benedict’s parish in Decorah, Iowa, USA, and with Council 4208 to construct a prayer garden in a vacant part of the Church property adjacent to the parish center. The Assembly was involved in every aspect of the project: clearing the lot, creating a plan, and beginning construction. The construction of the prayer garden included laying a large brick Cross, 20 feet by 15 feet in the ground, with surrounding stones to represent Rosary beads. Additionally, the Assembly installed an eight-foot statue of Jesus hugging a combat veteran and a 20-foot flagpole which flies the American Flag continuously. Two stone monuments of the Ten Commandments and Beatitudes were installed as well. The project was made wheelchair accessible, and benches were installed for reflection. The prayer garden is open to all members of the community at any time. 20 members of the Assembly contributed 5,600 volunteer hours and over $30,000 to complete this project. Substantial funding came from Council 4208.
 
+{{< image-resize your-picture-name "150x150" >}}
+
 ![Award image](../prayer-garden-award-20211205_183619.jpg)
