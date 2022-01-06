@@ -4,7 +4,7 @@ date: 2021-08-24T12:11:17-05:00
 draft: false
 ---
 
-Davis Assembly 271, which includes Saint Benedict’s Council 4208 in Decorah, has been given the prestigious “To Be A Patriot” award at the 2021 Supreme Convention of the Knights of Columbus. Davis Assembly is one of only three Assemblies in the world to receive this honor! See page 11 of the Supreme Knight’s Awards Session Booklet (https://www.kofc.org/.../2021/awards-session-booklet.pdf). Watch video (Supreme Knight’s Award Session) at https://www.kofc.org/.../supreme-convention/2021/index.html starting at 2:30.
+Davis Assembly 271, which includes Saint Benedict’s Council 4208 in Decorah, has been given the prestigious “To Be A Patriot” award at the 2021 Supreme Convention of the Knights of Columbus. Davis Assembly is one of only three Assemblies in the world to receive this honor! See page 11 of the Supreme Knight’s Awards Session Booklet and watch video (Supreme Knight’s Award Session starting at 2:30) at https://www.kofc.org/en/events/supreme-convention/2021/index.html .
 
 <!--more-->
 
