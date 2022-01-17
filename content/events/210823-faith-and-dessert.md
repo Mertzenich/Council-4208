@@ -4,7 +4,7 @@ date: 2020-09-11T11:45:00-05:00
 draft: false
 ---
 
-FAITH & DESSERT SERIES
+FAITH & DESSERT SERIES: Starts up again on Monday 24 January 2022
 
 -WHAT IT'S ABOUT: The program will include dessert, adult-oriented catechesis (religious instruction), fellowship & conversation, and Benediction. You can come to any session; the programs stand alone.
 
