@@ -8,7 +8,7 @@ FAITH & DESSERT SERIES: Starts up again on Monday 24 January 2022
 
 -WHAT IT'S ABOUT: The program will include dessert, adult-oriented catechesis (religious instruction), fellowship & conversation, and Benediction. You can come to any session; the programs stand alone.
 
--TOPIC: Learn the Faith with this series based on the Baltimore Catechism.
+-TOPIC: Learn the Faith with this series based upon the Baltimore Catechism. This program is designed to be a straightforward, from-the-ground-up, presentation of the Catholic Faith. Beginning with fundamental philosophy, this is a sort of catechesis which the modern Church, to its detriment, has all but abandoned, but this form of catechesis was used with great effectiveness with previous generations.
 
 -WHEN & WHERE IT WILL TAKE PLACE: This program started on Monday 23 August 2021. It takes place in Saint Benedict's parish hall, 307 West Main Street, Decorah, Iowa. It will run the 4th Monday of the following months @ 7 pm: August, September, October, January, February, March. Program will end each time @ 7:45 pm with Benediction; thus, this program will be short, SWEET (dessert!), and educational.
 
