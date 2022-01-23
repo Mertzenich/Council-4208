@@ -10,13 +10,13 @@ FAITH & DESSERT SERIES: Starts up again on Monday 24 January 2022
 
 -TOPIC: Learn the Faith with this series based on the Baltimore Catechism.
 
--WHEN & WHERE IT WILL TAKE PLACE: This program started on Monday 23 August 2021. It takes place in Saint Benedict's parish hall. It will run the 4th Monday of the following months @ 7 pm: August, September, October, January, February, March. Program will end each time @ 7:45 pm with Benediction; thus, this program will be short, SWEET (dessert!), and educational.
+-WHEN & WHERE IT WILL TAKE PLACE: This program started on Monday 23 August 2021. It takes place in Saint Benedict's parish hall, 307 West Main Street, Decorah, Iowa. It will run the 4th Monday of the following months @ 7 pm: August, September, October, January, February, March. Program will end each time @ 7:45 pm with Benediction; thus, this program will be short, SWEET (dessert!), and educational.
 
 -WHO'S DOING THIS: Sponsored by the Knights of Columbus, but this is NOT limited to members of the Knights of Columbus. All people are invited!!!!!!!!!! Feel free to invite friends, acquaintances, and family members. Remember: What you don't know *CAN* hurt you!
 
 -HOW MUCH THIS WILL COST: There is no cost to the participant, but a free will offering will be accepted. Money will be used to help defray costs and to give to local charities.
 
--RSVP: Contact us at decorahknights@gmail.com to let us know if you're planning to attend so that we can have the right amount of dessert, beverage, and catechetical materials.
+-RSVP: Contact us at decorahknights@gmail.com to let us know if you're planning to attend so that we can have the right amount of dessert, beverage, and catechetical materials. Call [(five six three) two seven seven zero zero four three] if you have questions.
 
 -CHILD CARE: Although child care will not be provided, feel free to bring children along.
 
