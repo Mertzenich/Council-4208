@@ -1,5 +1,5 @@
 ---
-title: "Upcoming Event: Spring Dinner"
+title: "Upcoming Event: Spring Dinner on 27 March"
 date: 2022-01-21T16:33:06-06:00
 draft: false
 ---
