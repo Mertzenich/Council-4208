@@ -5,5 +5,5 @@ draft: false
 ---
 Two men joined Knights of Columbus Council 4208 today, Sunday 10 April 2022.
 <!--more-->
-From left to right are Claude (member), Randy (member), Bill (new member), Trevor (new member), Father Hertges (chaplain), Mike (member), Randy (member):
+From left to right are Claude (member), Randy (member), Bill (new member), Trevor (new member), Father Hertges (chaplain), Mike (member), Larry (member):
 {{< figure src="../examplification-220410.jpg" alt="image of prayer garden award" width="500px" >}}
