@@ -1,6 +1,6 @@
 ---
-title: "Upcoming Event: Spring Dinner on 27 March"
-date: 2022-01-21T16:33:06-06:00
+title: "Past Event: Spring Dinner on 27 March"
+date: 2020-09-10T15:10:52-05:00
 draft: false
 ---
 Spring Dinner Sunday 27 March 2022

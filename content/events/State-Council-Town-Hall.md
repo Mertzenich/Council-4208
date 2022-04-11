@@ -1,6 +1,6 @@
 ---
-title: "Upcoming Event: State Council Town Hall Meeting in Decorah on 27 March"
-date: 2022-03-19T20:29:57-05:00
+title: "Past Event: State Council Town Hall Meeting in Decorah on 27 March"
+date: 2020-09-10T16:10:52-05:00
 draft: false
 ---
 
