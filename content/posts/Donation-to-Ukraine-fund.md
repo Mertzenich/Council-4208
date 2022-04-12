@@ -5,4 +5,4 @@ draft: false
 ---
 Saint Benedict's Council 4208 donated $1000 to Ukraine Fund
 <!--more-->
-Saint Benedict's Council 4208 has donated $1000 to the Ukraine Solidarity Fund (https://www.kofc.org/en/what-we-do/charity/ukraine.html).
+Saint Benedict's Council 4208 has donated $1000 to the Ukraine Solidarity Fund (https://www.kofc.org/en/what-we-do/charity/ukraine.html ).
