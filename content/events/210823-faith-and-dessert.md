@@ -6,7 +6,7 @@ draft: false
 
 FAITH & DESSERT SERIES
 
-"The greatest tragedy in the Church is an ignorant laity" (parapharased from Cdl. Saint John Henry Newman, arguably the greatest Catholic apologist of the 19th century).
+"The greatest tragedy in the Church is an ignorant laity" (paraphrased from Cdl. Saint John Henry Newman, arguably the greatest Catholic apologist of the 19th century).
 
 -WHAT IT'S ABOUT: The program will include dessert, adult-oriented catechesis (religious instruction), fellowship & conversation, and Benediction. You can come to any session; the programs stand alone; you don't need to attend all of them to understand what's going on; join in anytime.
 
