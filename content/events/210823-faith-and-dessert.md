@@ -6,6 +6,8 @@ draft: false
 
 FAITH & DESSERT SERIES
 
+"The greatest tragedy in the Church is an ignorant laity" (parapharased from Cdl. Saint John Henry Newman, arguably the greatest Catholic apologist of the 19th century).
+
 -WHAT IT'S ABOUT: The program will include dessert, adult-oriented catechesis (religious instruction), fellowship & conversation, and Benediction. You can come to any session; the programs stand alone; you don't need to attend all of them to understand what's going on; join in anytime.
 
 -TOPIC: Learn the Faith with this series based upon the Baltimore Catechism. This program is designed to be a straightforward, from-the-ground-up, presentation of the Catholic Faith. Beginning with fundamental philosophy, this is a sort of catechesis which the modern Church has all but abandoned, but this form of catechesis was used with great effectiveness with previous generations.
