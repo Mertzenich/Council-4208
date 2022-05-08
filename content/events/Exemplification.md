@@ -1,14 +1,26 @@
 ---
-title: "Upcoming event: Exemplification of Charity, Unity, and Fraternity on 8 May 2022"
+title: "Upcoming event: All practicing Catholic gentlemen are invited to join the Knights of Columbus. Next induction ceremony will be on Sunday 15 May 2022 after the 10 AM Mass. Family and friends are welcome and encouraged to be present."
 date: 2022-04-11T20:52:36-05:00
 draft: false
 ---
-Saint Benedict's Council 4208 will hold an Exemplification of Charity, Unity, and Fraternity on Sunday 8 May 2022 after the 10 AM Mass. The ceremony takes about 25-30 minutes.
+
 <!--more-->
-Saint Benedict's Council 4208 will hold an Exemplification of Charity, Unity, and Fraternity on Sunday 8 May 2022 after the 10 AM Mass. This Exemplification is the normal means by which men join the Order of the Knights of Columbus and advance in the ranks of the Order. All people are welcome to attend this public ceremony. For more information:
+Saint Benedict's Council 4208 will hold an Exemplification of Charity, Unity, and Fraternity on Sunday 15 May 2022 after the 10 AM Mass. This Exemplification is the normal means by which men join the Order of the Knights of Columbus and advance in the ranks of the Order. All practicing Catholic gentlemen are invited to join the Knights of Columbus. All people, including family and friends, are welcome and encouraged to attend this public ceremony. For more information:
 
 -->Contact Council 4208: https://decorahknights.org/contact/
 
 -->What it means to be a Knight of Columbus: https://youtu.be/PhrzLrFMC5w
 
 -->Online membership form (to be filled out before going through the Exemplification): https://www.kofc.org/secure/en/join/join-the-knights.html Use Agent Referral Code "WWITT".
+
+Here's a little dialogue between a prospective Knight of Columbus and a current member of Saint Benedict’s Council 4208:
+
+Prospective Knight (PK): So I've been thinking about it and I really want to volunteer with the Church  and be more involved.  But I don't know if I want to sign up for something that I don't know if I'll have time for. Just don't wanna leave anyone hanging; you know what I mean?
+
+Current Member (CM): You can spend as little or as much time on KofC activities as you like. It's the unity that comes with membership that probably means the most; we become a force for good simply by virtue of our banding together as Catholic gentlemen.
+
+PK: OK that sounds pretty good.
+
+PK: Is there a financial responsibility?
+
+CM: No dues the first year. After that, $25. Well worth it. I've been a member since 1993! Love it! Sometimes I've been very active; sometimes I've been dormant. It's all depended on my life responsibilities. Currently, I'm semi-dormant because my responsibilities and time commitment at work are currently quite high but, as soon as that diminishes, I intend to dive more deeply into Knights of Columbus activities.
