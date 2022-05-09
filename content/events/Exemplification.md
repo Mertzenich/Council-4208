@@ -5,13 +5,15 @@ draft: false
 ---
 
 <!--more-->
-Saint Benedict's Council 4208 will hold an Exemplification of Charity, Unity, and Fraternity on Sunday 15 May 2022 after the 10 AM Mass. This Exemplification is the normal means by which men join the Order of the Knights of Columbus and advance in the ranks of the Order. All practicing Catholic gentlemen are invited to join the Knights of Columbus. All people, including family and friends, are welcome and encouraged to attend this public ceremony. For more information:
+Saint Benedict's Council 4208 will hold an Exemplification of Charity, Unity, and Fraternity on Sunday 15 May 2022 after the 10 AM Mass. This Exemplification is the normal means by which men join the Order of the Knights of Columbus and advance in the ranks of the Order. All practicing Catholic gentlemen are invited to join the Knights of Columbus. All people, including family and friends and current KC members, especially those who have not yet made the second and third degrees of the Order, are welcome and encouraged to attend this public ceremony. For more information:
 
 -->Contact Council 4208: https://decorahknights.org/contact/
 
 -->What it means to be a Knight of Columbus: https://youtu.be/PhrzLrFMC5w
 
 -->Online membership form (to be filled out before going through the Exemplification): https://www.kofc.org/secure/en/join/join-the-knights.html Use Agent Referral Code "WWITT".
+
+***********************************
 
 Here's a little dialogue between a prospective Knight of Columbus and a current member of Saint Benedict’s Council 4208:
 
