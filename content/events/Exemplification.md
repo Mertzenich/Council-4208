@@ -5,7 +5,7 @@ draft: false
 ---
 
 <!--more-->
-When there are candidates ready to join the Knights of Columbus, Saint Benedict's Council 4208 holds an Exemplification of Charity, Unity, and Fraternity on the second Sunday of the month after the 10 AM Mass in the main area of the Church building, in the chapel, or in the parish hall classroom. This Exemplification is the normal means by which men join the Order of the Knights of Columbus and advance in the ranks of the Order. All practicing Catholic gentlemen are invited to join the Knights of Columbus. All people, including family and friends and current KC members, especially those who have not yet made the second and third degrees of the Order, are welcome and encouraged to attend this public ceremony, which only takes about 30 minutes. For more information:
+When there are candidates ready to join the Knights of Columbus, Saint Benedict's Council 4208 holds an Exemplification of Charity, Unity, and Fraternity on the second Sunday of the month after the 10 AM Mass in the main area of the Church building, in the chapel, or in the parish hall classroom. An Exemplification is the normal means by which men join the Order of the Knights of Columbus and advance in the ranks of the Order. All practicing Catholic gentlemen are invited to join the Knights of Columbus. All people, including family and friends and current KC members, especially those who have not yet made the second and third degrees of the Order, are welcome and encouraged to attend this public ceremony, which only takes about 30 minutes. For more information:
 
 -->Contact Council 4208: https://decorahknights.org/contact/
 
