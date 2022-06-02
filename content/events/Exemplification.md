@@ -11,7 +11,7 @@ When there are candidates ready to join the Knights of Columbus, Saint Benedict'
 
 -->What it means to be a Knight of Columbus: https://youtu.be/PhrzLrFMC5w
 
--->Online membership form (to be filled out before going through the Exemplification): https://www.kofc.org/secure/en/join/join-the-knights.html Use Agent Referral Code "WWITT".
+-->Online membership form (to be filled out before going through the Exemplification): https://www.kofc.org/secure/en/join/join-the-knights.html Use Agent Referral Code "WWITT" to get one year of free membership; after the first year, membership dues are $25 per year.
 
 ***********************************
 
@@ -25,4 +25,4 @@ PK: OK that sounds pretty good.
 
 PK: Is there a financial responsibility?
 
-CM: No dues the first year. After that, $25. Well worth it. I've been a member since 1993! Love it! Sometimes I've been very active; sometimes I've been dormant. It's all depended on my life responsibilities. Currently, I'm semi-dormant because my responsibilities and time commitment at work are currently quite high but, as soon as that diminishes, I intend to dive more deeply into Knights of Columbus activities.
+CM: No dues the first year. After that, $25 per year. Well worth it. I've been a member since 1993! Love it! Sometimes I've been very active; sometimes I've been dormant. It's all depended on my life responsibilities. Currently, I'm semi-dormant because my responsibilities and time commitment at work are currently quite high but, as soon as that diminishes, I intend to dive more deeply into Knights of Columbus activities.
