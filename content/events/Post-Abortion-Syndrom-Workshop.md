@@ -1,5 +1,5 @@
 ---
-title: "Upcoming event: Post Abortion Syndrom Workshop, 15 June 2022, 9:30 - 4 pm"
+title: "Upcoming event: Post Abortion Syndrome Workshop, 15 June 2022, 9:30 - 4 pm"
 date: 2022-06-07T11:21:21-05:00
 draft: false
 ---
