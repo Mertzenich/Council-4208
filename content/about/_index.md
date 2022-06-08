@@ -19,7 +19,7 @@ Patriotic (4th) degree information: http://www.kofc.org/un/en/members/for-patrio
 - Saint Benedict's parish, Decorah, Iowa: https://www.stbenedictcc.com/
 - We Want to Teach! We Want to be Taught: http://www.wewanttobetaught.com/
 - How to figure out if you, a Catholic, should attend a wedding: https://www.catholic.com/magazine/online-edition/should-i-attend-the-wedding-or-not ; https://www.catholic.com/magazine/online-edition/more-on-wedding-attendance ; https://www.catholic.com/qa/attending-a-non-catholic-wedding
-- Please send a letter to Pope Francis requesting that he consecrate Russia to the Immaculate Heart of Mary in union with all the Catholic bishops of the world in the solemn and public manner commanded by Our Lord and Our Lady, in the Fatima Message. Form letter and petition can be found [here](https://fatima.org/petition/petition-to-our-holy-father-the-consecration-of-russia/).
+- Please send a letter to Pope Francis requesting that he consecrate Russia to the Immaculate Heart of Mary in union with all the Catholic bishops of the world in the solemn and public manner commanded by Our Lord and Our Lady, in the Fatima Message. Form letter and petition can be found [here](https://fatima.org/formal-petition-for-the-consecration/).
 
     Here is the Holy Father's address:
 ```His Holiness, Pope Francis
