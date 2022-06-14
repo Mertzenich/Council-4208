@@ -1,6 +1,6 @@
 ---
-title: "Recurring event: Undaunted: A Gathering for Men"
-date: 2022-01-05T16:38:49-06:00
+title: "Past event: Undaunted: A Gathering for Men"
+date: 2020-08-10T15:10:52-05:00
 draft: false
 ---
 Undaunted: A Gathering for Men
