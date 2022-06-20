@@ -13,7 +13,7 @@ If you are a practical (practicing) Catholic gentleman, we invite you to join us
 
 The Knights of Columbus is a fraternal benefit society, which means we can provide financial security to members and their families, while turning premiums into charitable impact. For information about Knights of Columbus insurance, visit https://www.facebook.com/KnightsOfColumbusBormannAgency/ . The Council 4208 Insurance Field Agent is Wally Witt: https://www.facebook.com/decorahknights4208/photos/2821482134761651
 
-Patriotic (4th) degree information: http://www.kofc.org/un/en/members/for-patriotic-degree/index.html
+Patriotic (4th) degree information: https://www.kofc.org/en/news-room/articles/who-are-the-4th-degree-knights.html
 
 # Links & information:
 - Saint Benedict's parish, Decorah, Iowa: https://www.stbenedictcc.com/

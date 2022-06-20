@@ -1,6 +1,6 @@
 ---
-title: "Upcoming event: Post Abortion Syndrome Workshop, 15 June 2022, 9:30 - 4 pm"
-date: 2022-06-07T11:21:21-05:00
+title: "Past event: Post Abortion Syndrome Workshop, 15 June 2022, 9:30 - 4 pm"
+date: 2020-08-08T15:10:52-05:00
 draft: false
 ---
 Ever wonder what's going on inside the hurting post-abortive woman and how you might help her? Or the hurting post-abortive father and how you might help him?
