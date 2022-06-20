@@ -90,3 +90,9 @@ theme = "dpsg"
     name = "Contact"
     url = "/contact/"
     weight = 3
+
+  [[menu.main]]
+    identifier = "events"
+    name = "Events"
+    url = "/events/"
+    weight = 4
