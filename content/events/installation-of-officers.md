@@ -11,10 +11,10 @@ Family Potluck Lunch & Installation of Officers
 
 Monday 11 July 2022 starting at 6:00 pm.
 
-Location:  Saint Benedict’s parish
+Location:  Saint Benedict’s parish hall (basement of Church building), 307 West Main Street, Decorah, Iowa
 
 Bring a dish to pass and table service.  Beverages and meat will be provided by the Council.
 
 Everyone is welcome and encouraged to attend.
 
-Questions?  Call Tom Hartman @ 563-379-1093. No regular Council meeting in July.
+Questions?  Call Randy Schissel @ 563-380-3488. There will be no regular Council meeting in July.
