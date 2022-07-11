@@ -11,7 +11,7 @@ Family Potluck Lunch & Installation of Officers
 
 Monday 11 July 2022 starting at 6:30 pm.
 
-Location:  Saint Benedict’s parish hall (basement of Church building), 307 West Main Street, Decorah, Iowa
+Location:  Whalen Cabin (https://parks.decorahia.org/wp-content/uploads/2021/12/2022-park-reservations-map-info.pdf), Decorah, Iowa
 
 Bring a dish to pass and table service.  Beverages and meat (lots of chicken!) will be provided by the Council.
 
