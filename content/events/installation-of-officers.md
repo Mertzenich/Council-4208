@@ -9,11 +9,11 @@ A family potluck supper and installation of officers for the 2022-2023 fraternal
 All Knights, Families, Widows invited:
 Family Potluck Lunch & Installation of Officers
 
-Monday 11 July 2022 starting at 6:00 pm.
+Monday 11 July 2022 starting at 6:30 pm.
 
 Location:  Saint Benedict’s parish hall (basement of Church building), 307 West Main Street, Decorah, Iowa
 
-Bring a dish to pass and table service.  Beverages and meat will be provided by the Council.
+Bring a dish to pass and table service.  Beverages and meat (lots of chicken!) will be provided by the Council.
 
 Everyone is welcome and encouraged to attend.
 
