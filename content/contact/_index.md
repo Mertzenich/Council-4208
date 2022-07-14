@@ -22,5 +22,5 @@ For information about Council meetings, go to https://decorahknights.org/events/
 - Trustee 3 yr - B. Robinson
 - Trustee 2 yr - B. Franzen
 - Trustee 1 yr - S. Devine Meyer (starting July 2020)
-- District Deputy - L. Hauber 
+- District Deputy - L. Hauber (563-380-1564)
 - The Knights of Columbus is a fraternal benefit society, which means we can provide financial security to members and their families, while turning premiums into charitable impact. The Council 4208 Insurance Field Agent is Wally Witt: https://www.facebook.com/decorahknights4208/photos/2821482134761651
