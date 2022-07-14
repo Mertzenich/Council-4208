@@ -8,7 +8,7 @@ For information about Council meetings, go to https://decorahknights.org/events/
 
 # 2021-2022 Council Officers:
 - Grand Knight - R. Schissel (563-380-3488; randyschissel@yahoo.com)
-- Chaplain - Father D. Hertges
+- Chaplain - Father D. Hertges (Saint Benedict's parish, Decorah, Iowa, 563-382-9631)
 - Deputy Grand Knight - T. Carney
 - Chancellor - A. Neste
 - Recorder - M. Loney
