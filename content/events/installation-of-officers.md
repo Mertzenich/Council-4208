@@ -1,6 +1,6 @@
 ---
-title: "Upcoming event: Potluck & Installation of Officers on July 11, 2022"
-date: 2022-06-13T17:46:52-05:00
+title: "Past event: Potluck & Installation of Officers on July 11, 2022"
+date: 2020-08-07T15:10:52-05:00
 draft: false
 ---
 A family potluck supper and installation of officers for the 2022-2023 fraternal year will occur on Monday 11 July 2022 starting at 6:30 pm.
