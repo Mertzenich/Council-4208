@@ -1,10 +1,10 @@
 ---
-title: "Recurring event: FAITH & DESSERT CATECHETICAL SERIES"
-date: 2020-09-11T11:45:00-05:00
+title: "Past event: FAITH & DESSERT CATECHETICAL SERIES"
+date: 2020-08-06T15:10:52-05:00
 draft: false
 ---
 
-FAITH & DESSERT SERIES
+FAITH & DESSERT SERIES (As of 17 July 2022, this series is on hold until further notice.)
 
 "The greatest tragedy in the Church is an ignorant laity" (paraphrased from Cdl. Saint John Henry Newman, arguably the greatest Catholic apologist of the 19th century).
 
