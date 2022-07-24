@@ -1,6 +1,6 @@
 ---
-title: "Upcoming Event: Prayer Garden Work on 16 and 23 July 2022"
-date: 2022-07-14T08:29:02-05:00
+title: "Past Event: Prayer Garden Work on 16 and 23 July 2022"
+date: 2020-08-07T15:10:52-05:00
 draft: false
 ---
 July 16 and 23. Saturdays. Decorah is asking for help to reconfigure the rosary in the Prayer Garden. 
