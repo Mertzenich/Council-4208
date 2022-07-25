@@ -8,3 +8,5 @@ Council 4208 did additional work on the award winning (https://decorahknights.or
 
 The prayer garden needed to have the Rosary beads improved so that they would stand out better. This work was done over a two-day period (https://decorahknights.org/events/prayer-garden-work/).
 {{< figure src="../prayer-garden-work-220723.jpg" alt="prayer gardent work" width="500px" >}}
+
+{{< figure src="../prayer-garden-work-22072302.jfif" alt="prayer gardent work" width="500px" >}}
