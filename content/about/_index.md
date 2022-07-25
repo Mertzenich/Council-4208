@@ -15,36 +15,7 @@ The Knights of Columbus is a fraternal benefit society, which means we can provi
 
 Patriotic (4th) degree information: https://www.kofc.org/en/news-room/articles/who-are-the-4th-degree-knights.html
 
-# Links & information:
-- Saint Benedict's parish, Decorah, Iowa: https://www.stbenedictcc.com/
-- We Want to Teach! We Want to be Taught: http://www.wewanttobetaught.com/
-- How to figure out if you, a Catholic, should attend a wedding: https://www.catholic.com/magazine/online-edition/should-i-attend-the-wedding-or-not ; https://www.catholic.com/magazine/online-edition/more-on-wedding-attendance ; https://www.catholic.com/qa/attending-a-non-catholic-wedding
-- Please send a letter to Pope Francis requesting that he consecrate Russia to the Immaculate Heart of Mary in union with all the Catholic bishops of the world in the solemn and public manner commanded by Our Lord and Our Lady, in the Fatima Message. Form letter and petition can be found [here](https://fatima.org/formal-petition-for-the-consecration/).
 
-    Here is the Holy Father's address:
-```His Holiness, Pope Francis
-    His Holiness Pope Francis
-    Apostolic Palace
-    00120 Vatican City
-```
-
-
-## Catholic News & Information:
-- Programming schedule: https://www.churchmilitant.com/updated-programming-schedule
-- Catholic Info Hour (Evening News & The Download): https://www.churchmilitant.com/infohourdetails
-- Evening News Archive: https://www.churchmilitant.com/video/archive/evening-news
-- The Download Archive: https://www.churchmilitant.com/video/archive/download-series
-- Headlines: https://www.churchmilitant.com/video/archive/headlines
-- Reports: https://www.churchmilitant.com/video/archive/repo
-- Investigations: https://www.churchmilitant.com/search/category/252/investigations
-
-### 2020 Election Notes:
-- Voter guide: https://www.church-militant.com/2020-catholic-voters-guide
-- The Catholic's Guide to Joe Biden: https://joeaintcatholic.com/optin1600804765684
-- Post-election resources: https://www.churchmilitant.com/post-election-resource-page
-- Post-election Catholic news reports:
-- https://www.churchmilitant.com/video/archive/repo
-- https://www.churchmilitant.com/video/episode/camp-post-election-special-massive-fraud
 
 # Past Events and Activities
 Here's a sample of past events and activities of Council 4208:
@@ -128,3 +99,34 @@ Here's a sample of past events and activities of Council 4208:
 - 16 Hospitality after 10am Mass (set up serve & clean up 4-6 people)(optional breakfast)
 - 26 Holiday Lights at Campground (help take down display 5-20 people)
 - 30 Fifth Sunday Rosary
+
+# Links & information:
+- Saint Benedict's parish, Decorah, Iowa: https://www.stbenedictcc.com/
+- We Want to Teach! We Want to be Taught: http://www.wewanttobetaught.com/
+- How to figure out if you, a Catholic, should attend a wedding: https://www.catholic.com/magazine/online-edition/should-i-attend-the-wedding-or-not ; https://www.catholic.com/magazine/online-edition/more-on-wedding-attendance ; https://www.catholic.com/qa/attending-a-non-catholic-wedding
+- Please send a letter to Pope Francis requesting that he consecrate Russia to the Immaculate Heart of Mary in union with all the Catholic bishops of the world in the solemn and public manner commanded by Our Lord and Our Lady, in the Fatima Message. Form letter and petition can be found [here](https://fatima.org/formal-petition-for-the-consecration/).
+
+    Here is the Holy Father's address:
+```His Holiness, Pope Francis
+    His Holiness Pope Francis
+    Apostolic Palace
+    00120 Vatican City
+```
+
+
+## Catholic News & Information:
+- Programming schedule: https://www.churchmilitant.com/updated-programming-schedule
+- Catholic Info Hour (Evening News & The Download): https://www.churchmilitant.com/infohourdetails
+- Evening News Archive: https://www.churchmilitant.com/video/archive/evening-news
+- The Download Archive: https://www.churchmilitant.com/video/archive/download-series
+- Headlines: https://www.churchmilitant.com/video/archive/headlines
+- Reports: https://www.churchmilitant.com/video/archive/repo
+- Investigations: https://www.churchmilitant.com/search/category/252/investigations
+
+### 2020 Election Notes:
+- Voter guide: https://www.church-militant.com/2020-catholic-voters-guide
+- The Catholic's Guide to Joe Biden: https://joeaintcatholic.com/optin1600804765684
+- Post-election resources: https://www.churchmilitant.com/post-election-resource-page
+- Post-election Catholic news reports:
+- https://www.churchmilitant.com/video/archive/repo
+- https://www.churchmilitant.com/video/episode/camp-post-election-special-massive-fraud
