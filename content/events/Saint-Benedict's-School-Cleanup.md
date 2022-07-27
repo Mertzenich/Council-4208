@@ -1,6 +1,6 @@
 ---
-title: "Upcoming event: Saint Benedict's School Grounds Cleanup on 25 July 2022"
-date: 2022-07-25T8:16:52-05:00
+title: "Past event: Saint Benedict's School Grounds Cleanup on 25 July 2022"
+date: 2020-08-05T15:10:52-05:00
 draft: false
 ---
 Saint Benedict's School Grounds Cleanup on 25 July 2022
